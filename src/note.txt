@@ -1,0 +1,1 @@
+Github restricts files to 50 mb max so connection_graph has been restricted to only chosen records. Not every test may now work ;)
